@@ -14,7 +14,7 @@
 	"private": true,
 	"license": "MIT",
 	"devDependencies": {
-		"vercel": "^28.2.0"
+		"vercel": "^29.3.3"
 	},
 	"dependencies": {
 		"@vercel/edge": "^0.3.4"
